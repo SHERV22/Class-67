@@ -4,3 +4,4 @@ mew
 zapdos
 articuno 
 mewtwo
+moltres
