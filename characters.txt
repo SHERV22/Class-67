@@ -2,3 +2,5 @@ charizard
 zekrom
 mew
 zapdos
+articuno 
+mewtwo
